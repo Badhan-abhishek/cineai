@@ -1,0 +1,7 @@
+(library
+  (name cineai_user)
+  (libraries
+    dream
+    yojson
+    )
+  )

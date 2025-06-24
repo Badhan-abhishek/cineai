@@ -1,0 +1,9 @@
+(library
+  (name cineai_routes)
+  (libraries 
+    cineai_user
+    dream 
+    yojson 
+    )
+  (preprocess (pps lwt_ppx))
+  )

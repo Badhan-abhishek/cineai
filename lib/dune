@@ -1,0 +1,4 @@
+(library
+ (name cineai)
+ (libraries yojson)
+ )
